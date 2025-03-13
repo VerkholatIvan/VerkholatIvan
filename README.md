@@ -12,7 +12,6 @@ With a knack for quick learning, I have delved into data science and operating s
 ## 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VerkholatIvan&theme=radical&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VerkholatIvan&theme=radical&hide_border=true&card_width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerkholatIvan&layout=donut&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
